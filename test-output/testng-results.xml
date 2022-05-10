@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[click On Start Button[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //a[normalize-space()='Start now']]]]>
+    </line>
+    <line>
+      <![CDATA[select country [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> id: response]]]>
+    </line>
+    <line>
+      <![CDATA[Reason for visit [[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+    </line>
+    <line>
+      <![CDATA[Select the Stay time length [[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//label]]]]>
+    </line>
+    <line>
+      <![CDATA[select job type list[[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+    </line>
+    <line>
+      <![CDATA[get Result and verify [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+    <line>
+      <![CDATA[click On Start Button[[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //a[normalize-space()='Start now']]]]>
+    </line>
+    <line>
+      <![CDATA[select country [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> id: response]]]>
+    </line>
+    <line>
+      <![CDATA[Reason for visit [[[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+    </line>
+    <line>
+      <![CDATA[get Result and verify [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+    </line>
+  </reporter-output>
+  <suite name="Sanity Suite" duration-ms="15639" started-at="2022-05-09T00:57:06 BST" finished-at="2022-05-09T00:57:21 BST">
+    <groups>
+      <group name="regression">
+        <method signature="TestNGGrouping.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testng.TestNGGrouping"/>
+        <method signature="TestNGGrouping.anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testng.TestNGGrouping"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TestNGGrouping.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testng.TestNGGrouping"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TestNGGrouping.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testng.TestNGGrouping"/>
+        <method signature="TestNGGrouping.anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="anAustralianCominToUKForTourism" class="gov.uk.check.visa.testng.TestNGGrouping"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Sanity" duration-ms="15639" started-at="2022-05-09T00:57:06 BST" finished-at="2022-05-09T00:57:21 BST">
+      <class name="gov.uk.check.visa.testng.TestNGGrouping">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="setUp" is-config="true" duration-ms="5338" started-at="2022-05-09T00:57:06 BST" finished-at="2022-05-09T00:57:11 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIT()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="inIT" is-config="true" duration-ms="50" started-at="2022-05-09T00:57:11 BST" finished-at="2022-05-09T00:57:11 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIT -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="2982" started-at="2022-05-09T00:57:11 BST" finished-at="2022-05-09T00:57:14 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[click On Start Button[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //a[normalize-space()='Start now']]]]>
+            </line>
+            <line>
+              <![CDATA[select country [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> id: response]]]>
+            </line>
+            <line>
+              <![CDATA[Reason for visit [[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+            </line>
+            <line>
+              <![CDATA[Select the Stay time length [[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//label]]]]>
+            </line>
+            <line>
+              <![CDATA[select job type list[[[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+            </line>
+            <line>
+              <![CDATA[get Result and verify [[ChromeDriver: chrome on WINDOWS (642ffc7a0ad0b2cc6171870fcb83c28e)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="tearDown" is-config="true" duration-ms="823" started-at="2022-05-09T00:57:14 BST" finished-at="2022-05-09T00:57:15 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="setUp" is-config="true" duration-ms="3347" started-at="2022-05-09T00:57:15 BST" finished-at="2022-05-09T00:57:18 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIT()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="inIT" is-config="true" duration-ms="36" started-at="2022-05-09T00:57:18 BST" finished-at="2022-05-09T00:57:18 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIT -->
+        <test-method status="PASS" signature="anAustralianCominToUKForTourism()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="anAustralianCominToUKForTourism" duration-ms="2155" started-at="2022-05-09T00:57:18 BST" finished-at="2022-05-09T00:57:21 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[click On Start Button[[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //a[normalize-space()='Start now']]]]>
+            </line>
+            <line>
+              <![CDATA[select country [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> id: response]]]>
+            </line>
+            <line>
+              <![CDATA[Reason for visit [[[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label], [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //div[@class='govuk-radios']//div//label]]]]>
+            </line>
+            <line>
+              <![CDATA[get Result and verify [[ChromeDriver: chrome on WINDOWS (54fe5abd2d59fb060cbea963ff8107e5)] -> xpath: //h2[@class='gem-c-heading gem-c-heading--font-size-27 govuk-!-margin-bottom-6']]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- anAustralianCominToUKForTourism -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testng.TestNGGrouping@1d29cf23]" name="tearDown" is-config="true" duration-ms="804" started-at="2022-05-09T00:57:21 BST" finished-at="2022-05-09T00:57:21 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testng.TestNGGrouping -->
+    </test> <!-- Sanity -->
+  </suite> <!-- Sanity Suite -->
+</testng-results>
